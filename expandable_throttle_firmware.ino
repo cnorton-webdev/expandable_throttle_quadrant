@@ -3,8 +3,8 @@
 // Copyright 2020 Christopher Norton
 
 // begin configuration section ----------------------------------------------------------------------------
-#define SPOILERS false
-#define ENGINES 0
+#define SPOILERS true
+#define ENGINES 2
 #define FLAPS true
 // end configuration section ----------------------------------------------------------------------------
 
